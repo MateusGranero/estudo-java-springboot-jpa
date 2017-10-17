@@ -1,7 +1,5 @@
 package com.mateusgranero.cursomc.resources.exeption;
 
-import java.sql.Timestamp;
-
 import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.http.HttpStatus;
